@@ -23,8 +23,7 @@ This certificate was sponsored by Verizon and edX. This is the Front-End Web Dev
 
 ## Acknowledgments
 
-- [Coursera Honor Code](https://www.coursera.support/s/article/209818863-Coursera-Honor-Code?language=en_US)
-- [edX Terms and Use](https://www.edx.org/edx-terms-service#honor-code)
+- [edX Honors / Terms and Use](https://www.edx.org/edx-terms-service#honor-code)
 - [edX Privacy Notice](https://www.edx.org/edx-privacy-policy)
 - [Google Scholar](https://scholar.google.com/)
 - [UMGC Library](https://libguides.umgc.edu/home)
