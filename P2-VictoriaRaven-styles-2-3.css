@@ -1,0 +1,19 @@
+/* body */
+body {
+    background-color: purple;
+}
+
+/* H1 header*/
+h1 {
+    color: white;
+}
+
+/* paragraph*/
+p {
+    color: fuchsia;
+}
+
+/* unordered list */
+ul {
+    background-color: silver;
+}
