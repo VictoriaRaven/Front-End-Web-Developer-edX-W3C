@@ -1,0 +1,61 @@
+/* body */
+body {
+    background-color: purple;
+}
+
+/* H1 header*/
+h1 {
+    color: white;
+}
+
+/* paragraph*/
+p {
+    color: fuchsia;
+}
+
+/* unordered list */
+ul {
+    background-color: silver;
+}
+
+/* General Body Styling */
+body {
+    background-color: #00ccff;
+    color: white;
+    font-family: Helvetica, sans-serif;
+    margin: 35px 25px 0px 25px;
+}
+
+/* Styling for Top Section */
+#topSectionHeader {
+    background-color: #3300cc;
+    color: #cccccc;
+}
+
+#topSectionParagraph, #topSectionList {
+    background-color: #3300cc;
+    color: #cccccc;
+}
+
+/* Styling for Bottom Section */
+#bottomSectionHeader {
+    background-color: #cccccc;
+    color: #3300cc;
+}
+
+#bottomSectionParagraph, #bottomSectionList {
+    background-color: #cccccc;
+    color: #3300cc;
+}
+
+/* Important Item (underlined in green) */
+#importantItem {
+    text-decoration: underline;
+    color: #99ff99;
+}
+
+/* Important Item (grey text color) */
+#importantItem2 {
+    color: grey;
+}
+
