@@ -1,0 +1,25 @@
+/* body background*/
+body {
+  background-color: #ccffcc;
+  color: #336600;
+}
+
+/* h1 title */
+h1 {
+  color: white;
+  background-color: #336600;
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+
+/* unordered list*/
+ul, ol {
+  background-color: #ffff99;
+  padding: 10px;
+}
+
+/* paragraph in body*/
+p {
+  border: 3px solid black;
+  padding: 10px;
+}
