@@ -1,0 +1,45 @@
+/* body background */
+body {
+  background-color: #ffff99;
+  font-family: Helvetica, Impact, "Courier New", sans-serif;
+}
+
+/* h1 element*/
+h1 {
+  font-family: Impact;
+  color: #ff6600;
+  font-weight: bold; 
+  border: 3px solid #ff6600;
+  padding: 10px;
+}
+
+/* h2 element */
+h2 {
+  font-family: "Courier New";
+  color: #ffff99; 
+  background-color: #ff6600; 
+  padding: 10px; 
+}
+
+/* ol list */
+ol {
+  font-weight: bold; 
+  color: #ffff99;
+  background-color: #ffcc00;
+  padding: 10px;
+  left-padding: 10px;
+}
+
+/* li items*/
+li {
+  color: #ffff99;
+  padding: 5px;
+  margin-left: 40px;
+}
+
+/* p element */
+p {
+  border: 3px dotted #cc9900;
+  padding: 10px;
+  font-size: 1.2em;
+}

@@ -2,6 +2,7 @@
 ## Copyright Usage and License
 
 For now, all rights are to myself due to being unique. Later on the future, I will think about putting a license for this repository incase the company wishes to use my work.
+Please do not take my code rights! Make sure to always fork my repo if you are doing this after I put a license. For now, you cannot modify my code or use it.
 
 Other Links:  
 - [GitHub Copyright and Licenses](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
@@ -23,8 +24,7 @@ This certificate was sponsored by Verizon and edX. This is the Front-End Web Dev
 
 ## Acknowledgments
 
-- [Coursera Honor Code](https://www.coursera.support/s/article/209818863-Coursera-Honor-Code?language=en_US)
-- [edX Terms and Use](https://www.edx.org/edx-terms-service#honor-code)
+- [edX Honors / Terms and Use](https://www.edx.org/edx-terms-service#honor-code)
 - [edX Privacy Notice](https://www.edx.org/edx-privacy-policy)
 - [Google Scholar](https://scholar.google.com/)
 - [UMGC Library](https://libguides.umgc.edu/home)
