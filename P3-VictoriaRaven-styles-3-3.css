@@ -1,0 +1,76 @@
+/* body */
+body {
+  background-color: #006666; 
+  color: white;
+}
+
+/* Title / header */
+h1 {
+  text-decoration: underline;
+}
+
+h1:hover {
+  text-decoration: underline;
+}
+
+/* input box */
+input {
+  border: 3px solid white;
+  background-color:  white;
+}
+
+input:hover {
+  border: 3px solid  yellow;
+}
+
+input:focus {
+  background-color: yellow;
+}
+
+/* button */
+button {
+  background-color: white;
+  color:  #006666;
+  border: 3px solid white;
+}
+
+/* button hovered */
+button:hover {
+  background-color: #006666;
+  color: white; 
+}
+
+/* button clicked */
+button:active {
+  background-color: #33cc99;
+}
+
+/* list item  */
+li {
+  background-color: #006666;
+  color: white;
+}
+
+li:hover {
+  background-color: white;
+  color: black;
+}
+
+li:active {
+  background-color: #33cc99;
+  color: white;
+}
+
+/* links */
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #33cc99;
+}
+
+a:visited {
+  color: #33cc99;
+}
